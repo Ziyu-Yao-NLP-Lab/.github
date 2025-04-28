@@ -21,6 +21,7 @@ Group Webpage: https://ziyuyao.org/group/
 - Coming soon!
 
 ## Topic 3: Human-AI Interaction
+- IntelliExplain: Enhancing Conversational Code Generation for Non-Professional Programmers, Preprint, 2024. [Paper](https://arxiv.org/pdf/2405.10250)
 - Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing, ACL 2023. [Paper](https://aclanthology.org/2023.acl-long.177.pdf) [Code](https://github.com/hyan5/Learning_to_Simulate_NL_Feedback)
 
 ## Topic 4: LLM for X (Interdisciplinary Applications)
