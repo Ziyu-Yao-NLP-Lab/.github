@@ -20,7 +20,7 @@ Group Webpage: https://ziyuyao.org/group/
 ## Topic 2: LLM Interpretability
 - A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models, Preprint 2025. [Paper](https://arxiv.org/abs/2407.02646)
 - Mechanistic Understanding of Language Models in Syntactic Code Completion, Workshop Paper, AAAI 2025. [Paper](https://arxiv.org/pdf/2502.18499)
-- An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs, ACL 2024. [Paper](https://aclanthology.org/2024.acl-long.387/)[Code](https://github.com/Dakingrai/neuron-analysis-cot-arithmetic-reasoning)
+- An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs, ACL 2024. [Paper](https://aclanthology.org/2024.acl-long.387/) [Code](https://github.com/Dakingrai/neuron-analysis-cot-arithmetic-reasoning)
 - Understanding the Effect of Algorithm Transparency of Model Explanations in Text-to-SQL Semantic Parsing, Preprint 2025. [Paper](https://arxiv.org/pdf/2410.16283)
 - Explaining Large Language Model-Based Neural Semantic Parsers, AAAI 2023. [Student Abstract](https://ojs.aaai.org/index.php/AAAI/article/view/27014)
 
