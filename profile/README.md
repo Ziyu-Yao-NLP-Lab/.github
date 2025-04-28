@@ -18,6 +18,7 @@ Group Webpage: https://ziyuyao.org/group/
 - Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning, ICLR Workshop on LLM Agents, 2024 [Paper](https://arxiv.org/abs/2310.03249) [Code](https://github.com/MohamedAghzal/llms-as-path-planners)
 - Look Further Ahead: Testing the Limits of GPT-4 in Path Planning, IEEE 20th International Conference on Automation Science and Engineering, 2024 [Paper](https://arxiv.org/abs/2406.12000) [Code](https://github.com/MohamedAghzal/llms-as-path-planners)
 - Evaluating Vision-Language Models as Evaluators in Path Planning, IEEE/CVF CVPR, 2025 [Paper](https://arxiv.org/abs/2406.12000) [Code](https://github.com/MohamedAghzal/PathEval) [Dataset](https://huggingface.co/datasets/maghzal/PathEval)
+- A Survey on Large Language Models for Automated Planning, Preprint 2025 [Paper](https://arxiv.org/abs/2502.12435)
 
 
 
