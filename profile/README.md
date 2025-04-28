@@ -11,7 +11,11 @@ Group Webpage: https://ziyuyao.org/group/
 
 # Repository Inventory :fire:
 ## Topic 1: Reasoning and Planning
-- Coming soon!
+- Gentopia: A Collaborative Platform for Tool-Augmented LLMs, EMNLP Demo, 2023. [Paper](https://aclanthology.org/2023.emnlp-demo.20.pdf) [Code](https://github.com/Gentopia-AI/Gentopia)
+- Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning, ICLR, 2024. [Paper](https://arxiv.org/pdf/2310.03094) [Code](https://github.com/MurongYue/LLM_MoT_cascade)
+- DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search, ICLR, 2025. [Paper](https://arxiv.org/pdf/2410.03864) [Code](https://github.com/MurongYue/DOTS)
+- Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack, Preprint, 2025. [Paper](https://arxiv.org/pdf/2503.15551) [Code](https://github.com/MurongYue)
+
 
 ## Topic 2: LLM Interpretability
 - Coming soon!
@@ -21,3 +25,4 @@ Group Webpage: https://ziyuyao.org/group/
 
 ## Topic 4: LLM for X (Interdisciplinary Applications)
 - MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education, AAAI AI4Edu Workshop, 2025. [Website](https://murongyue.github.io/MathVC.github.io/) [Paper](https://arxiv.org/pdf/2404.06711.pdf) [Code](https://github.com/MurongYue/MathVC)
+- Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following, Preprint, 2025. [Paper](https://arxiv.org/pdf/2504.06460) [Code](https://github.com/Ziyu-Yao-NLP-Lab)
