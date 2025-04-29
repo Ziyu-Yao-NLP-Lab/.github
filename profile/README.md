@@ -19,6 +19,8 @@ Group Webpage: https://ziyuyao.org/group/
 - Look Further Ahead: Testing the Limits of GPT-4 in Path Planning, IEEE 20th International Conference on Automation Science and Engineering, 2024 [Paper](https://arxiv.org/abs/2406.12000) [Code](https://github.com/MohamedAghzal/llms-as-path-planners)
 - Evaluating Vision-Language Models as Evaluators in Path Planning, IEEE/CVF CVPR, 2025 [Paper](https://arxiv.org/abs/2406.12000) [Code](https://github.com/MohamedAghzal/PathEval) [Dataset](https://huggingface.co/datasets/maghzal/PathEval)
 - A Survey on Large Language Models for Automated Planning, Preprint 2025 [Paper](https://arxiv.org/abs/2502.12435)
+- Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance, ACL Findings 2024 [Paper](https://arxiv.org/abs/2310.02107)
+- Revisiting Prompt Optimization with Large Reasoning Models-A Case Study on Event Extraction, Preprint 2025 [Paper](https://arxiv.org/abs/2504.07357)
 
 
 
@@ -37,3 +39,5 @@ Group Webpage: https://ziyuyao.org/group/
 ## Topic 4: LLM for X (Interdisciplinary Applications)
 - MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education, AAAI AI4Edu Workshop, 2025. [Website](https://murongyue.github.io/MathVC.github.io/) [Paper](https://arxiv.org/pdf/2404.06711.pdf) [Code](https://github.com/MurongYue/MathVC)
 - Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following, Preprint, 2025. [Paper](https://arxiv.org/pdf/2504.06460) [Code](https://github.com/Ziyu-Yao-NLP-Lab)
+- MailEx: Email event and argument extraction [Paper](https://arxiv.org/abs/2305.13469) [Dataset](https://github.com/salokr/Email-Event-Extraction)
+- Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines [Paper](https://arxiv.org/abs/2502.16377)
