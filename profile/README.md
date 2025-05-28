@@ -14,7 +14,7 @@ Group Webpage: https://ziyuyao.org/group/
 - Gentopia: A Collaborative Platform for Tool-Augmented LLMs, EMNLP Demo, 2023. [Paper](https://aclanthology.org/2023.emnlp-demo.20.pdf) [Code](https://github.com/Gentopia-AI/Gentopia)
 - Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning, ICLR, 2024. [Paper](https://arxiv.org/pdf/2310.03094) [Code](https://github.com/MurongYue/LLM_MoT_cascade)
 - DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search, ICLR, 2025. [Paper](https://arxiv.org/pdf/2410.03864) [Code](https://github.com/MurongYue/DOTS)
-- Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack, Preprint, 2025. [Paper](https://arxiv.org/pdf/2503.15551) [Code](https://github.com/MurongYue)
+- Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack, ACL Findings, 2025. [Paper](https://arxiv.org/pdf/2503.15551) [Code](https://github.com/MurongYue/BatchSafeBench)
 - Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning, ICLR Workshop on LLM Agents, 2024 [Paper](https://arxiv.org/abs/2310.03249) [Code](https://github.com/MohamedAghzal/llms-as-path-planners)
 - Look Further Ahead: Testing the Limits of GPT-4 in Path Planning, IEEE 20th International Conference on Automation Science and Engineering, 2024 [Paper](https://arxiv.org/abs/2406.12000) [Code](https://github.com/MohamedAghzal/llms-as-path-planners)
 - Evaluating Vision-Language Models as Evaluators in Path Planning, IEEE/CVF CVPR, 2025 [Paper](https://arxiv.org/abs/2406.12000) [Code](https://github.com/MohamedAghzal/PathEval) [Dataset](https://huggingface.co/datasets/maghzal/PathEval)
